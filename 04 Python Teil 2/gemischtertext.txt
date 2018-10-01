@@ -1,0 +1,10 @@
+7
+It works for any interable, not just lists. Disadvantage is that it's not in place. – Swiss Oct 15 '10 at 7:04 
+3
+@Tim it returns a slice, so doesn't change the actual list contents – fortran Oct 15 '10 at 7:04 
+48
+the reversed() container is more clear. – lunixbochs Oct 15 '10 at 7:05
+10
+@lunixbochs reversed returns an iterator and not a list in Python 3. – Swiss Oct 15 '10 at 7:09 
+5
+@Swiss right, but the OP's example was an iteration :) – lunixbochs Oct 15 '10 at 7:16
