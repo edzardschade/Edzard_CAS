@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="zürich">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>18/12/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="1000738565452681216" label="voyageswiss" />
+      <node id="1002663290" label="hedilamnna" />
+      <node id="1020575708895211520" label="Andreas09681970" />
+      <node id="1020577676837441537" label="bastian_eckert" />
+      <node id="1020638001334976513" label="BettinaFeldman6" />
+      <node id="1022581658" label="DaniSchafroth" />
+      <node id="1060216226893434880" label="HaiydiB" />
+      <node id="1159750206" label="ValjaMilin" />
+      <node id="128222457" label="SwissNetInc" />
+      <node id="138083232" label="swiss_geoportal" />
+      <node id="14273050" label="NZZ" />
+      <node id="145957031" label="claudineheinz" />
+      <node id="1550547547" label="Easyspotting" />
+      <node id="1578125996" label="edelweiss330" />
+      <node id="163785653" label="gd_zuerich" />
+      <node id="164184258" label="JosefWiederkehr" />
+      <node id="18292592" label="jonasbieri" />
+      <node id="202985146" label="tagesanzeiger" />
+      <node id="217034168" label="linkedktk" />
+      <node id="2255302334" label="CVP_Zuerich" />
+      <node id="2266503733" label="DCA_Conductor" />
+      <node id="2303451512" label="karibik541" />
+      <node id="236309486" label="DonGoginho" />
+      <node id="2572556132" label="mk4058" />
+      <node id="2584393508" label="MDatzberger" />
+      <node id="2601323054" label="KayFoerschle" />
+      <node id="26777021" label="Dr_Kakerlake" />
+      <node id="275112201" label="HeinzLindenmann" />
+      <node id="2910644884" label="csarasuagar" />
+      <node id="3023480746" label="LB20101960" />
+      <node id="3096451480" label="TomEhrenberger" />
+      <node id="3135113487" label="jdstrub" />
+      <node id="3289108752" label="sandralove_girl" />
+      <node id="3314634431" label="GLOCKENHOF_ZH" />
+      <node id="3395777655" label="0231Jana" />
+      <node id="3414086001" label="elkepoley" />
+      <node id="342631350" label="Andre__Mueller" />
+      <node id="364384953" label="kuppp005" />
+      <node id="37391313" label="BEARZBEARZBEARZ" />
+      <node id="3801795495" label="zwoelf_app" />
+      <node id="399370075" label="Glggli" />
+      <node id="437588125" label="pascallamprecht" />
+      <node id="46988913" label="ChrisDangerReid" />
+      <node id="4869675245" label="andreas_wisst" />
+      <node id="492607392" label="rstocker_sky" />
+      <node id="495880776" label="UKordeck" />
+      <node id="540087657" label="MV_Zuerich" />
+      <node id="55343681" label="mmznr" />
+      <node id="561916773" label="canteiro_hugo" />
+      <node id="620197067" label="nadhuberson" />
+      <node id="624668875" label="OpenDataZurich" />
+      <node id="708622213780480000" label="linaschreibt" />
+      <node id="72072706" label="MD80com" />
+      <node id="722576059" label="reiss_gabi" />
+      <node id="724288337012387840" label="Miltong1976" />
+      <node id="765272280024965120" label="Baselinfo2" />
+      <node id="775904053" label="lenomty" />
+      <node id="800967760989880321" label="Ulrik_von" />
+      <node id="862658023" label="MarianneSchro11" />
+      <node id="86624549" label="andreshofer" />
+      <node id="875637231112683522" label="PlaneSpotIsCool" />
+      <node id="891462473404096512" label="FintechJoe" />
+      <node id="92360681" label="toblerette" />
+      <node id="969830888807849984" label="AVENORM1" />
+      <node id="972470072412463106" label="Andrija33593814" />
+      <node id="975754740272418821" label="conmedicon" />
+      <node id="978267947255914496" label="Gynaekologie_ZH" />
+      <node id="978641355206479872" label="Gynaekologie_SH" />
+      <node id="996033962878251008" label="iuY0jx47oBZfIlO" />
+      <node id="998308467852095488" label="reisedirektEU" />
+      <node id="1021773684015620096" label="VenenzentrumZH" />
+      <node id="2306291760" label="VadymVolpov" />
+      <node id="2955404464" label="byH_Leitenbauer" />
+      <node id="430183964" label="LepaBrena_TW" />
+      <node id="14770715" label="swissbusiness" />
+      <node id="804596291250569216" label="OD_ACal" />
+      <node id="1449373734" label="Blitzsche" />
+      <node id="301413295" label="IreneTroxler" />
+      <node id="408548113" label="NZZzuerich" />
+      <node id="506349796" label="MyMoneyPark" />
+      <node id="4695031999" label="Zurichspotter" />
+      <node id="251186081" label="KantonZuerich" />
+      <node id="3163938257" label="Unispital_USZ" />
+      <node id="5912372" label="tagi" />
+      <node id="172375021" label="CVP_PDC" />
+      <node id="2380493820" label="YvonneBuergin" />
+      <node id="76653252" label="operzuerich" />
+      <node id="12392362" label="FelixZRH" />
+      <node id="757293523" label="srfzuerich" />
+      <node id="206630486" label="spzuerich" />
+      <node id="861597623517663232" label="Fick_Buch" />
+      <node id="2191409085" label="VisitZurich" />
+      <node id="743024249141637120" label="WeLovedWWE" />
+      <node id="747004928221118464" label="justiz_ch" />
+      <node id="373944734" label="KapoZuerich" />
+      <node id="924334824" label="TheBluejaysUK" />
+      <node id="3760626981" label="Wohninitiative" />
+      <node id="923992110767968256" label="futeboliadas" />
+      <node id="39528842" label="JustinMeyerKC" />
+      <node id="928716555306917895" label="SalvatoreDeNuc2" />
+      <node id="33047609" label="fc_zuerich" />
+      <node id="2738012154" label="NeiraOsci" />
+    </nodes>
+    <edges>
+      <edge id="0" source="1000738565452681216" target="1000738565452681216" weight="34" />
+      <edge id="1" source="1002663290" target="492607392" weight="3" />
+      <edge id="2" source="1020575708895211520" target="1021773684015620096" weight="7" />
+      <edge id="3" source="1020575708895211520" target="2306291760" weight="12" />
+      <edge id="4" source="1020577676837441537" target="1021773684015620096" weight="7" />
+      <edge id="5" source="1020577676837441537" target="2306291760" weight="12" />
+      <edge id="6" source="1020638001334976513" target="1021773684015620096" weight="7" />
+      <edge id="7" source="1020638001334976513" target="2306291760" weight="12" />
+      <edge id="8" source="1022581658" target="492607392" weight="4" />
+      <edge id="9" source="1060216226893434880" target="2955404464" weight="3" />
+      <edge id="10" source="1159750206" target="430183964" weight="3" />
+      <edge id="11" source="128222457" target="14770715" weight="100" />
+      <edge id="12" source="138083232" target="804596291250569216" weight="3" />
+      <edge id="13" source="14273050" target="1449373734" weight="8" />
+      <edge id="14" source="14273050" target="301413295" weight="17" />
+      <edge id="15" source="14273050" target="408548113" weight="43" />
+      <edge id="16" source="14273050" target="92360681" weight="8" />
+      <edge id="17" source="145957031" target="506349796" weight="3" />
+      <edge id="18" source="1550547547" target="4695031999" weight="14" />
+      <edge id="19" source="1578125996" target="4695031999" weight="14" />
+      <edge id="20" source="163785653" target="251186081" weight="3" />
+      <edge id="21" source="163785653" target="3163938257" weight="3" />
+      <edge id="22" source="164184258" target="408548113" weight="9" />
+      <edge id="23" source="164184258" target="5912372" weight="3" />
+      <edge id="24" source="18292592" target="804596291250569216" weight="3" />
+      <edge id="25" source="202985146" target="5912372" weight="4" />
+      <edge id="26" source="217034168" target="804596291250569216" weight="3" />
+      <edge id="27" source="2255302334" target="172375021" weight="4" />
+      <edge id="28" source="2255302334" target="2380493820" weight="3" />
+      <edge id="29" source="2266503733" target="76653252" weight="3" />
+      <edge id="30" source="2303451512" target="1000738565452681216" weight="3" />
+      <edge id="31" source="236309486" target="624668875" weight="3" />
+      <edge id="32" source="236309486" target="804596291250569216" weight="6" />
+      <edge id="33" source="2572556132" target="301413295" weight="3" />
+      <edge id="34" source="2584393508" target="492607392" weight="4" />
+      <edge id="35" source="2601323054" target="506349796" weight="4" />
+      <edge id="36" source="26777021" target="12392362" weight="3" />
+      <edge id="37" source="275112201" target="757293523" weight="4" />
+      <edge id="38" source="2910644884" target="804596291250569216" weight="4" />
+      <edge id="39" source="3023480746" target="430183964" weight="3" />
+      <edge id="40" source="3096451480" target="1000738565452681216" weight="3" />
+      <edge id="41" source="3135113487" target="206630486" weight="3" />
+      <edge id="42" source="3289108752" target="861597623517663232" weight="4" />
+      <edge id="43" source="3314634431" target="2191409085" weight="4" />
+      <edge id="44" source="3395777655" target="743024249141637120" weight="3" />
+      <edge id="45" source="3414086001" target="747004928221118464" weight="3" />
+      <edge id="46" source="342631350" target="1449373734" weight="6" />
+      <edge id="47" source="342631350" target="408548113" weight="6" />
+      <edge id="48" source="342631350" target="92360681" weight="3" />
+      <edge id="49" source="364384953" target="14273050" weight="3" />
+      <edge id="50" source="37391313" target="4695031999" weight="3" />
+      <edge id="51" source="3801795495" target="202985146" weight="3" />
+      <edge id="52" source="399370075" target="373944734" weight="7" />
+      <edge id="53" source="437588125" target="206630486" weight="3" />
+      <edge id="54" source="46988913" target="924334824" weight="4" />
+      <edge id="55" source="4869675245" target="1000738565452681216" weight="3" />
+      <edge id="56" source="492607392" target="492607392" weight="7" />
+      <edge id="57" source="495880776" target="408548113" weight="3" />
+      <edge id="58" source="540087657" target="3760626981" weight="6" />
+      <edge id="59" source="55343681" target="804596291250569216" weight="5" />
+      <edge id="60" source="561916773" target="923992110767968256" weight="4" />
+      <edge id="61" source="620197067" target="206630486" weight="5" />
+      <edge id="62" source="624668875" target="804596291250569216" weight="6" />
+      <edge id="63" source="708622213780480000" target="1000738565452681216" weight="20" />
+      <edge id="64" source="708622213780480000" target="998308467852095488" weight="4" />
+      <edge id="65" source="72072706" target="4695031999" weight="3" />
+      <edge id="66" source="722576059" target="12392362" weight="5" />
+      <edge id="67" source="724288337012387840" target="39528842" weight="3" />
+      <edge id="68" source="765272280024965120" target="765272280024965120" weight="3" />
+      <edge id="69" source="775904053" target="928716555306917895" weight="4" />
+      <edge id="70" source="800967760989880321" target="14273050" weight="3" />
+      <edge id="71" source="862658023" target="76653252" weight="6" />
+      <edge id="72" source="86624549" target="33047609" weight="3" />
+      <edge id="73" source="875637231112683522" target="4695031999" weight="8" />
+      <edge id="74" source="891462473404096512" target="2738012154" weight="5" />
+      <edge id="75" source="92360681" target="1449373734" weight="3" />
+      <edge id="76" source="92360681" target="408548113" weight="5" />
+      <edge id="77" source="969830888807849984" target="924334824" weight="3" />
+      <edge id="78" source="972470072412463106" target="430183964" weight="3" />
+      <edge id="79" source="975754740272418821" target="975754740272418821" weight="3" />
+      <edge id="80" source="978267947255914496" target="1021773684015620096" weight="5" />
+      <edge id="81" source="978267947255914496" target="2306291760" weight="11" />
+      <edge id="82" source="978641355206479872" target="1021773684015620096" weight="7" />
+      <edge id="83" source="978641355206479872" target="2306291760" weight="11" />
+      <edge id="84" source="996033962878251008" target="4695031999" weight="4" />
+      <edge id="85" source="998308467852095488" target="998308467852095488" weight="3" />
+    </edges>
+  </graph>
+</gexf>
